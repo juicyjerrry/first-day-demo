@@ -1,2 +1,2 @@
-# first-day-demo
+# first-day-repo
 6.27.22
